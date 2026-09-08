@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    min-width: 100vw;
+
+    height: 70px;
+    background-color: #421805;
+    color: #7DFCE3;
+}
+a{
+    text-decoration: none;
+    color: #7DFCE3;
+}
+a:hover{
+    background-color: #FB600F;
+    padding: 5px;
+    border-radius: 5px;
+}

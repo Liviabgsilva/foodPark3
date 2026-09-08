@@ -1,0 +1,25 @@
+.img-park, .img-taverna, .img-cereal{
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+}
+
+.container-home, .cont-taverna, .cont-cereal, .cont-carrinho{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 25px;
+
+    padding: 0 25px;
+
+    
+}
+
+.cardapio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
